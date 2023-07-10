@@ -1,5 +1,5 @@
 This is my first git repo addition 
 
-this is my first change to the text file - now I am going to mess it up
+this is my first change to the text
 
 
