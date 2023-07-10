@@ -4,4 +4,6 @@ this is my second change to the txt file from the command line
 
 this is me changing it from git hub
 
+this is me messing it up from my system
+
 
