@@ -1,6 +1,6 @@
 This is my first git repo addition 
 
-this is my second change to the txt file
+this is my second change to the txt file from the command line
 
 this is me changing it from git hub
 
