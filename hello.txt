@@ -4,10 +4,6 @@ this is my second change to the txt file from the command line
 
 this is me changing it from git hub
 
-<<<<<<< HEAD
 this is me messing it up from my system
 
-=======
 this is me messing it up from Github
->>>>>>> 315dbdb907ad863a5582e8d89572ae4a0f8d5393
-
